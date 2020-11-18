@@ -1,0 +1,12 @@
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula 01.vbprojAssemblyReference.cache
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula_01.Form1.resources
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula_01.Resources.resources
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula 01.vbproj.GenerateResource.cache
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula 01.vbproj.CoreCompileInputs.cache
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\bin\Debug\Aula 01.exe.config
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\bin\Debug\Aula 01.exe
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\bin\Debug\Aula 01.pdb
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\bin\Debug\Aula 01.xml
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula 01.exe
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula 01.xml
+C:\Users\PROBOOK 640 G1\source\repos\Aula 01\Aula 01\obj\Debug\Aula 01.pdb

@@ -1,0 +1,10 @@
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\bin\Debug\Aula 02.exe.config
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\bin\Debug\Aula 02.exe
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\bin\Debug\Aula 02.pdb
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\obj\Debug\Aula 02.csprojAssemblyReference.cache
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\obj\Debug\Aula_02.Form1.resources
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\obj\Debug\Aula_02.Properties.Resources.resources
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\obj\Debug\Aula 02.csproj.GenerateResource.cache
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\obj\Debug\Aula 02.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\obj\Debug\Aula 02.exe
+C:\Users\PROBOOK 640 G1\source\repos\Aula 02\Aula 02\obj\Debug\Aula 02.pdb
