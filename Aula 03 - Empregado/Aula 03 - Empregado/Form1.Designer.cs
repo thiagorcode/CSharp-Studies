@@ -39,8 +39,8 @@ namespace Aula_03___Empregado
             this.txtNome = new System.Windows.Forms.TextBox();
             this.trackBar1 = new System.Windows.Forms.TrackBar();
             this.LblExibicao = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.lblNomeAtualizado = new System.Windows.Forms.TextBox();
+            this.lblIdadeAtualizado = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
@@ -54,12 +54,13 @@ namespace Aula_03___Empregado
             this.btnAtualizar.TabIndex = 0;
             this.btnAtualizar.Text = "Atualizar";
             this.btnAtualizar.UseVisualStyleBackColor = true;
+            this.btnAtualizar.Click += new System.EventHandler(this.btnAtualizar_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(108, 36);
+            this.label1.Location = new System.Drawing.Point(108, 35);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(196, 24);
             this.label1.TabIndex = 1;
@@ -69,7 +70,7 @@ namespace Aula_03___Empregado
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(70, 213);
+            this.label2.Location = new System.Drawing.Point(108, 209);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(297, 24);
             this.label2.TabIndex = 2;
@@ -99,7 +100,7 @@ namespace Aula_03___Empregado
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(108, 258);
+            this.label5.Location = new System.Drawing.Point(124, 252);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(67, 24);
             this.label5.TabIndex = 5;
@@ -109,7 +110,7 @@ namespace Aula_03___Empregado
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(108, 306);
+            this.label6.Location = new System.Drawing.Point(124, 300);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(62, 24);
             this.label6.TabIndex = 6;
@@ -121,6 +122,7 @@ namespace Aula_03___Empregado
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(202, 20);
             this.txtNome.TabIndex = 7;
+            this.txtNome.TextChanged += new System.EventHandler(this.txtNome_TextChanged);
             // 
             // trackBar1
             // 
@@ -128,6 +130,7 @@ namespace Aula_03___Empregado
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(202, 45);
             this.trackBar1.TabIndex = 8;
+            this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
             // 
             // LblExibicao
             // 
@@ -139,21 +142,21 @@ namespace Aula_03___Empregado
             this.LblExibicao.TabIndex = 9;
             this.LblExibicao.Text = "Idade";
             // 
-            // textBox1
+            // lblNomeAtualizado
             // 
-            this.textBox1.Location = new System.Drawing.Point(181, 260);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(87, 20);
-            this.textBox1.TabIndex = 10;
+            this.lblNomeAtualizado.Location = new System.Drawing.Point(210, 252);
+            this.lblNomeAtualizado.Name = "lblNomeAtualizado";
+            this.lblNomeAtualizado.ReadOnly = true;
+            this.lblNomeAtualizado.Size = new System.Drawing.Size(87, 20);
+            this.lblNomeAtualizado.TabIndex = 10;
             // 
-            // textBox2
+            // lblIdadeAtualizado
             // 
-            this.textBox2.Location = new System.Drawing.Point(181, 309);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(87, 20);
-            this.textBox2.TabIndex = 11;
+            this.lblIdadeAtualizado.Location = new System.Drawing.Point(210, 300);
+            this.lblIdadeAtualizado.Name = "lblIdadeAtualizado";
+            this.lblIdadeAtualizado.ReadOnly = true;
+            this.lblIdadeAtualizado.Size = new System.Drawing.Size(87, 20);
+            this.lblIdadeAtualizado.TabIndex = 11;
             // 
             // label7
             // 
@@ -177,11 +180,11 @@ namespace Aula_03___Empregado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(618, 400);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.lblIdadeAtualizado);
+            this.Controls.Add(this.lblNomeAtualizado);
             this.Controls.Add(this.LblExibicao);
             this.Controls.Add(this.trackBar1);
             this.Controls.Add(this.txtNome);
@@ -194,6 +197,7 @@ namespace Aula_03___Empregado
             this.Controls.Add(this.btnAtualizar);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -212,8 +216,8 @@ namespace Aula_03___Empregado
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.TrackBar trackBar1;
         private System.Windows.Forms.Label LblExibicao;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox lblNomeAtualizado;
+        private System.Windows.Forms.TextBox lblIdadeAtualizado;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
     }

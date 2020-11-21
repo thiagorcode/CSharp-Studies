@@ -8,3 +8,13 @@ C:\Users\PROBOOK 640 G1\source\repos\Aula 03 - Empregado\Aula 03 - Empregado\obj
 C:\Users\PROBOOK 640 G1\source\repos\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.csproj.CoreCompileInputs.cache
 C:\Users\PROBOOK 640 G1\source\repos\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.exe
 C:\Users\PROBOOK 640 G1\source\repos\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.pdb
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\bin\Debug\Aula 03 - Empregado.exe.config
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\bin\Debug\Aula 03 - Empregado.exe
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\bin\Debug\Aula 03 - Empregado.pdb
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.csprojAssemblyReference.cache
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula_03___Empregado.Form1.resources
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula_03___Empregado.Properties.Resources.resources
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.csproj.GenerateResource.cache
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.exe
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 03 - Empregado\Aula 03 - Empregado\obj\Debug\Aula 03 - Empregado.pdb

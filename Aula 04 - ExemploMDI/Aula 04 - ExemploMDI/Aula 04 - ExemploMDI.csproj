@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{49D94E60-4157-4D15-B5EB-DE9B741601C5}</ProjectGuid>
+    <ProjectGuid>{0F596E93-C453-4B36-A5D2-78B8CE0C4E6A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Aula_03___Empregado</RootNamespace>
-    <AssemblyName>Aula 03 - Empregado</AssemblyName>
+    <RootNamespace>Aula_04___ExemploMDI</RootNamespace>
+    <AssemblyName>Aula 04 - ExemploMDI</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -45,12 +45,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Empregao.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFilho1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFilho1.Designer.cs">
+      <DependentUpon>FrmFilho1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFilho2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFilho2.Designer.cs">
+      <DependentUpon>frmFilho2.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

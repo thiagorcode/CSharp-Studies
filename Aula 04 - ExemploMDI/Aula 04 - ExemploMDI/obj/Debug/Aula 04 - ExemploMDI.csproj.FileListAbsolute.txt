@@ -1,0 +1,10 @@
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\bin\Debug\Aula 04 - ExemploMDI.exe.config
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\bin\Debug\Aula 04 - ExemploMDI.exe
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\bin\Debug\Aula 04 - ExemploMDI.pdb
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\obj\Debug\Aula 04 - ExemploMDI.csprojAssemblyReference.cache
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\obj\Debug\Aula_04___ExemploMDI.Form1.resources
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\obj\Debug\Aula_04___ExemploMDI.Properties.Resources.resources
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\obj\Debug\Aula 04 - ExemploMDI.csproj.GenerateResource.cache
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\obj\Debug\Aula 04 - ExemploMDI.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\obj\Debug\Aula 04 - ExemploMDI.exe
+C:\Users\PROBOOK 640 G1\Documents\Git Hub\CSharp-Studies\Aula 04 - ExemploMDI\Aula 04 - ExemploMDI\obj\Debug\Aula 04 - ExemploMDI.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Aula_03___Empregado
 {
-    class Emregao
+    class Empregao
     {
         private string NomeEmp;
         private int IdadeEmp;
